@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  gelato = [coffee, fiore di late, vanilla, chocolate]
+  gelato = ["coffee", "fiore di late", "vanilla", "chocolate"]
 end
 
 def add_element_to_end_of_array(array, element)
