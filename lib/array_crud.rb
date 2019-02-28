@@ -1,9 +1,9 @@
 def create_an_empty_array
-  empty_array = []
+  gelato = []
 end
 
 def create_an_array
-  array = [coffee, fiore di late, vanilla, chocolate]
+  gelato = [coffee, fiore di late, vanilla, chocolate]
 end
 
 def add_element_to_end_of_array(array, element)
